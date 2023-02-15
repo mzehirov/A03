@@ -7,7 +7,9 @@ Directions on Using Webstorm:
 4. Click on that link and scroll til you see Webstorm.
 5. Click on Webstorm and then click the download button.
 6. Lastly approve the download on computer and allow for it to download.
-7. Once download open Webstorm and login in through there.
+7. Git should already be preinstalled on mac.
+8. Once download open Webstorm and login in through there.
+9. When logging in to Webstorm use the Login with GitHub.
 ----------------------------------------------------------------
 **Branch** - Another version of your repository where you can test anything without affecting the main branch.
 **Clone** - When you make a copy of you repository on your local device.
